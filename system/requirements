@@ -1,0 +1,12 @@
+numpy==1.16.4
+setuptools==41.0.0
+tensorflow
+healpy
+rasterio
+pyproj
+elmoformanylangs
+bert_embedding
+keras
+sklearn
+scipy
+geopy
