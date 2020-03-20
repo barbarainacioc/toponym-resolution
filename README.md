@@ -1,5 +1,4 @@
-
-Toponym Resolution with Contextual Word Embeddings
+*Toponym Resolution with Contextual Word Embeddings*
 
 The requirements file is located in the "system" folder.
 
